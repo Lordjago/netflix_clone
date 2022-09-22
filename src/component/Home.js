@@ -62,9 +62,9 @@ console.log(success)
             <button className="sign-btn">START</button>
           </form>}
         <div>
-          {/* <p style={{ marginTop: "20px" }}>
+          <p style={{ marginTop: "20px" }}>
             Ready to watch? Enter your email to create or access your account.
-          </p> */}
+          </p>
 
         </div>
         </div>

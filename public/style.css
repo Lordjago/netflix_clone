@@ -352,6 +352,10 @@ input:focus{
     .login .container h1{
         font-size: 28px;
     }
+    .sign-btn{
+        padding: 12px 17px ;
+        font-size: 14px;
+    }
 }
 @media screen and (max-width: 485px) {
     .header .sign-in{
